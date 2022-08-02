@@ -1,12 +1,7 @@
-## Hi there 👋
+# MCWLCTeam
+<img src="https://github.com/MCWLCServer/WLCServer/blob/main/wlc.png?raw=true" width=11% /><br><p>
+欢迎来到MCWLCTeam（我的世界未来城团队）的GitHub页面<br><p>
+所有有关于MCWLCTeam开发的项目都会发布在本组织内<br><p>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# 已发布的项目
+- WLCServer 我的世界未来城服务器
