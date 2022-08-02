@@ -4,4 +4,4 @@
 所有有关于MCWLCTeam开发的项目都会发布在本组织内<br><p>
 
 # 已发布的项目
-- WLCServer 我的世界未来城服务器
+- <a href="https://github.com/MCWLCServer/WLCServer">WLCServer</a> 我的世界未来城服务器
