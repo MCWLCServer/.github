@@ -14,7 +14,7 @@
   - [建筑师] sansanlaichi 负责服务器建筑<br><p>
 <br><p>
 ## 服务器结构
-<a href="https://imgse.com/i/z3dj8s"><img src="https://s1.ax1x.com/2022/11/22/z3dj8s.md.png" alt="z3dj8s.png" border="0" /></a>
+<a href="https://imgse.com/i/z3wXdO"><img src="https://s1.ax1x.com/2022/11/23/z3wXdO.md.png" alt="z3wXdO.png" border="0" /></a>
 <br><p>
 未来城团队群: None<br><p>
 未来城团队DoDo群: 167127<br><p>
