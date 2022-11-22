@@ -12,12 +12,21 @@
   - [水鸟] FlaxenCarp67581 负责整活 and 咕咕咕<br><p>
   - [总建筑师] blockerbilibili 负责服务器建筑<br><p>
   - [建筑师] sansanlaichi 负责服务器建筑<br><p>
-
-
+<br><p>
 ## 服务器结构
 <a href="https://imgse.com/i/z3dj8s"><img src="https://s1.ax1x.com/2022/11/22/z3dj8s.md.png" alt="z3dj8s.png" border="0" /></a>
-<br>
+<br><p>
 未来城团队群: None<br><p>
+未来城团队DoDo群: 167127<br><p>
 远古城玩家群: None<br><p>
 现代城玩家群: 687132276<br><p>
 未来城玩家群: 568150766<br><p>
+<br><p>
+## 合作服务器
+IMC.RE | 祈愿<br><p>
+<br><p>
+IMC.RE 玩家QQ群: 607355046<br><p>
+IMC.RE 玩家DoDo群: 69260<br><p>
+<br><p>
+祈愿 玩家QQ群: 1094173651<br><p>
+祈愿 玩家DoDo群: 23038<br><p>
