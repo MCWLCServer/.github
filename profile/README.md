@@ -15,5 +15,5 @@
 
 
 ## 服务器结构
-<a href="https://imgse.com/i/z3dj8s"><img src="https://s1.ax1x.com/2022/11/22/z3dj8s.png" alt="z3dj8s.png" border="0" /></a>
+<a href="https://imgse.com/i/z3dj8s"><img src="https://s1.ax1x.com/2022/11/22/z3dj8s.md.png" alt="z3dj8s.png" border="0" /></a>
 
