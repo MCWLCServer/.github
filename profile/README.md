@@ -16,4 +16,8 @@
 
 ## 服务器结构
 <a href="https://imgse.com/i/z3dj8s"><img src="https://s1.ax1x.com/2022/11/22/z3dj8s.md.png" alt="z3dj8s.png" border="0" /></a>
-
+<br>
+未来城团队群: None
+远古城玩家群: None
+现代城玩家群: 687132276
+未来城玩家群: 568150766
