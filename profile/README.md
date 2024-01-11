@@ -2,7 +2,7 @@
 欢迎来到MCWLCTeam（我的世界未来城团队）的GitHub  
 部分MCWLCTeam开发的项目会开源在本组织内  
 ## 团队成员
-第一任腐竹：[Clamours] Real Clamours
+第一任腐竹：[Clamours] Real Clamours  
 第二任腐竹：[东少] DongShaoNB (现任)
 管理员: 
   - [贝洛] zbeiluo
