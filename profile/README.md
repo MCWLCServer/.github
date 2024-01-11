@@ -3,7 +3,7 @@
 部分MCWLCTeam开发的项目会开源在本组织内  
 ## 团队成员
 第一任腐竹：[Clamours] Real Clamours  
-第二任腐竹：[东少] DongShaoNB (现任)
+第二任腐竹：[东少] DongShaoNB (现任)  
 管理员: 
   - [贝洛] zbeiluo
   - [建筑师] blockerbilibili
